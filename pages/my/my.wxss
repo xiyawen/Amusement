@@ -1,0 +1,11 @@
+/* pages/my/my.wxss */
+.wrap{
+  display: flex
+}
+.wrap .item{
+  flex: 1;
+  background-color: pink
+}
+image{
+  width: 750rpx;
+}
